@@ -1,4 +1,4 @@
-describe Node do
+describe 'linking nodes' do
   it "links nodes" do
     list_of_items =
     [
